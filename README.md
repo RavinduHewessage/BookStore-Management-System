@@ -1,7 +1,5 @@
 # BookStore-Management-System
 
-Simple and Easy handle of your book stocks details and Employee details in the Book Store.<br/><br/>
-
 **From software:**<br/>
 
 *Can simplify the manual documentation.<br/>
