@@ -31,3 +31,8 @@ Book store management system focuses precisely on following objectives
 ➢ Analyze book records<br/>
 ➢ Helps to Keep the entire information of the book store in a systematic way<br/>
 ➢ User friendly
+
+**Note**
+
+Software can run only in Windows OS
+To Setup Software to your PC follow the instructions in Read Me file in the Downloaded Zip File
